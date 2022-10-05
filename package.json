@@ -1,0 +1,20 @@
+{
+  "name": "poc-semantical-release",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luizggbasedigital/poc-semantical-release.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luizggbasedigital/poc-semantical-release/issues"
+  },
+  "homepage": "https://github.com/luizggbasedigital/poc-semantical-release#readme"
+}
