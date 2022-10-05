@@ -19,14 +19,14 @@
       "main"
     ]
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/luizggbasedigital/poc-semantical-release/issues"
   },
   "homepage": "https://github.com/luizggbasedigital/poc-semantical-release#readme",
   "devDependencies": {
     "semantic-release": "^19.0.5"
-  },
-  "publishConfig": {
-    "access": "restricted"
   }
 }
