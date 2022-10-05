@@ -19,6 +19,13 @@
       "main"
     ]
   },
+  "plugins": [
+    "@semantic-release/commit-analyzer",
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
+    "@semantic-release/npm",
+    "@semantic-release/git"
+  ],
   "publishConfig": {
     "access": "public"
   },
@@ -27,6 +34,7 @@
   },
   "homepage": "https://github.com/luizggbasedigital/poc-semantical-release#readme",
   "devDependencies": {
+    "@semantic-release/npm": "^9.0.1",
     "semantic-release": "^19.0.5"
   }
 }
