@@ -13,8 +13,16 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "release": {
+    "branches": [
+      "main"
+    ]
+  },
   "bugs": {
     "url": "https://github.com/luizggbasedigital/poc-semantical-release/issues"
   },
-  "homepage": "https://github.com/luizggbasedigital/poc-semantical-release#readme"
+  "homepage": "https://github.com/luizggbasedigital/poc-semantical-release#readme",
+  "devDependencies": {
+    "semantic-release": "^19.0.5"
+  }
 }
