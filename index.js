@@ -1,9 +1,9 @@
 function sayHello() {
-  return "hello dasd dasdasdsadsdsdsdsdsdsddsdsdsdsdsdsdsds";
+  return "hello";
 }
 
 function saySorry() {
-  return "sorry adsd dsadasddsdsdsdsdsdsdsdsdsdsdsdsdsdsdsd";
+  return "sorry";
 }
 
 module.exports = {
