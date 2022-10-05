@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "release": "standard-version"
   },
   "repository": {
     "type": "git",
@@ -35,6 +36,7 @@
   "homepage": "https://github.com/luizggbasedigital/poc-semantical-release#readme",
   "devDependencies": {
     "@semantic-release/npm": "^9.0.1",
-    "semantic-release": "^19.0.5"
+    "semantic-release": "^19.0.5",
+    "standard-version": "^9.5.0"
   }
 }
