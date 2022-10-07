@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
-    "release": "standard-version"
+    "release": "standard-version --no-verify",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -36,6 +37,7 @@
   "homepage": "https://github.com/luizggbasedigital/poc-semantical-release#readme",
   "devDependencies": {
     "@semantic-release/npm": "^9.0.1",
+    "husky": "^8.0.1",
     "semantic-release": "^19.0.5",
     "standard-version": "^9.5.0"
   }
