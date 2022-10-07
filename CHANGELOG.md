@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.7.12](https://github.com/luizggbasedigital/poc-semantical-release/compare/v1.7.11...v1.7.12) (2022-10-07)
+
 ### [1.7.11](https://github.com/luizggbasedigital/poc-semantical-release/compare/v1.7.2...v1.7.11) (2022-10-07)
 
 ### [1.7.10](https://github.com/luizggbasedigital/poc-semantical-release/compare/v1.7.2...v1.7.10) (2022-10-07)

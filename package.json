@@ -1,12 +1,12 @@
 {
   "name": "poc-semantical-release",
-  "version": "1.7.11",
+  "version": "1.7.12",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release",
-    "release": "standard-version --no-verify",
+    "release": "standard-version",
     "prepare": "husky install"
   },
   "repository": {
