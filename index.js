@@ -3,7 +3,7 @@ function sayHello() {
 }
 
 function saySorry() {
-  return "sorrydsdsdsddsdsddsdsdssdsdsds";
+  return "sorrydsdsdsddsdsddsd";
 }
 
 module.exports = {
